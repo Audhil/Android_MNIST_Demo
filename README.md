@@ -4,8 +4,8 @@ app is based on kotlin. FYI.
 
 Screen shots FYI.
 
-![alt text](https://raw.githubusercontent.com/Audhil/Android_MNIST_Demo/master/images/one.png)
-![alt text](https://raw.githubusercontent.com/Audhil/Android_MNIST_Demo/master/images/two.png)
+![alt text](https://raw.githubusercontent.com/Audhil/Android_MNIST_Demo/master/images/one.png){:height="50%" width="50%"}
+![alt text](https://raw.githubusercontent.com/Audhil/Android_MNIST_Demo/master/images/two.png){:height="50%" width="50%"}
 ![alt text](https://raw.githubusercontent.com/Audhil/Android_MNIST_Demo/master/images/three.png)
 ![alt text](https://raw.githubusercontent.com/Audhil/Android_MNIST_Demo/master/images/four.png)
 ![alt text](https://raw.githubusercontent.com/Audhil/Android_MNIST_Demo/master/images/five.png)
